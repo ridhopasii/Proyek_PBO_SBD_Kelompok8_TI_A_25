@@ -1,6 +1,4 @@
-# Folder yang dikecualikan dari push
 docs/
 txt/
 
-# Compiled Java class files
 *.class
